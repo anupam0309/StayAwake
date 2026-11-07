@@ -1,0 +1,7 @@
+# build output
+StayAwake.app/
+*.mov
+
+# local tooling
+.claude/
+.DS_Store
